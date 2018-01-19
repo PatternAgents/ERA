@@ -1,0 +1,8 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"MPN";"PROD_ID";"VALUE";
+"2";"1K";"RESISTOR0603";"0603-RES";"R2, R4";"Resistor";"";"";"";
+"2";"100K";"RESISTOR0603";"0603-RES";"R1, R6";"Resistor";"";"";"";
+"2";"4K7";"RESISTOR0603";"0603-RES";"R3, R5";"Resistor";"";"";"";
+"2";"BSS138W-7-F";"SMD-MOSFET-N-CH-50V-200MA-BSS138W-7-F(SOT-23)";"SOT-23";"Q1, Q2";"305030000";"BSS138W-7-F";"";"BSS138W-7-F";
+"2";"ERA-SHROUD";"ERA-SHROUD";"ERA";"ERA, EURO";"Embedded Rack Backplane Connector";"";"";"";
+"6";"JACK-3_5MM-MONO-SW-MJ_3502";"JACK-3_5MM-MONO-SW-MJ_3502";"MJ-3502";"CV_IN, CV_OUT, CV_THRU, GATE_IN, GATE_OUT, GATE_THRU";"Jack, 3.5mm, RIght Angle, Though-Hole";"";"";"";
+"1";"LED-RG-CC-PTH-G18500";"LED-RG-CC-PTH-G18500";"LED-RG-PANEL";"LED1";"LED Red/Green Common Cathode Pin Through Hole";"";"";"";
