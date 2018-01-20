@@ -223,7 +223,7 @@
 <text x="6.35" y="3.048" size="0.8128" layer="21" rot="SR0" align="center">CVI</text>
 <text x="9.144" y="3.048" size="0.8128" layer="21" rot="SR0" align="center">GTI</text>
 </package>
-<package name="ER2-OPEN">
+<package name="ERA-OPEN">
 <wire x1="-11.43" y1="-1.905" x2="-10.795" y2="-2.54" width="0.1524" layer="21"/>
 <wire x1="-9.525" y1="-2.54" x2="-8.89" y2="-1.905" width="0.1524" layer="21"/>
 <wire x1="-8.89" y1="-1.905" x2="-8.255" y2="-2.54" width="0.1524" layer="21"/>
@@ -336,7 +336,6 @@
 <text x="-5.08" y="3.048" size="0.762" layer="21" rot="SR0" align="center">0V</text>
 <text x="5.08" y="3.048" size="0.762" layer="21" rot="SR0" align="center">CVI</text>
 <text x="7.62" y="3.048" size="0.762" layer="21" rot="SR0" align="center">GTI</text>
-<text x="9.652" y="1.905" size="1.4224" layer="21" font="vector" ratio="20" rot="SR270">ER2</text>
 <wire x1="-3.81" y1="1.905" x2="-3.81" y2="0" width="0.1524" layer="21"/>
 <wire x1="-3.81" y1="0" x2="-3.81" y2="-1.905" width="0.1524" layer="21"/>
 <wire x1="6.35" y1="0" x2="3.81" y2="0" width="0.127" layer="21"/>
@@ -501,7 +500,7 @@
 <technology name=""/>
 </technologies>
 </device>
-<device name="-NOS" package="ER2-OPEN">
+<device name="-NOS" package="ERA-OPEN">
 <connects>
 <connect gate="J1" pin="1" pad="1"/>
 <connect gate="J1" pin="10" pad="10"/>

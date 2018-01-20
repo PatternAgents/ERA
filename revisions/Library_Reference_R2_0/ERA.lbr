@@ -160,6 +160,7 @@
 <layer number="255" name="routoute" color="7" fill="1" visible="yes" active="yes"/>
 </layers>
 <library>
+<description>Embedded Rack Architecture</description>
 <packages>
 <package name="ERA">
 <wire x1="-13.81" y1="4.25" x2="13.81" y2="4.25" width="0.1524" layer="21"/>

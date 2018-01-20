@@ -78,8 +78,8 @@ Type="Schematic Editor"
 Loc="652 321 1251 720"
 State=0
 Number=2
-File="U:/Halcyon/ERA/revisions/Module_Templates_3U/examples/SwitchMult/revisions/R2_0/SwitchMult_R2_0.sch"
-View="-6.11216 -4.84216 285.304 220.534"
+File="revisions/R2_0/Backplane_Reference_R2_0.sch"
+View="-6.11216 -5.6194 285.304 220.549"
 WireWidths=" 0 0.3048 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0.4064 0.1524"
 PadDiameters=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0"
 PadDrills=" 0.5 0.6 0.7 0.9 1 1.1 1.2 1.3 1.4 1.5 1.6 2 2.2 2.8 3.2 0.8"
@@ -118,16 +118,15 @@ ArcDirection=0
 AddLevel=2
 PadsSameType=0
 Layer=91
-Views=" 1: -6.11216 -4.84216 285.304 220.534"
 Sheet=1
 
 [Win_2]
 Type="Board Editor"
-Loc="2557 370 3156 769"
-State=1
+Loc="652 321 1251 720"
+State=3
 Number=1
-File="U:/Halcyon/ERA/revisions/Module_Templates_3U/examples/SwitchMult/revisions/R2_0/SwitchMult_R2_0.brd"
-View="29.2004 -0.902938 45.2099 20.5983"
+File="revisions/R2_0/Backplane_Reference_R2_0.brd"
+View="-3.43916 -9.96289 168.793 45.8277"
 WireWidths=" 0 0.254 0.3048 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0.4064"
 PadDiameters=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0"
 PadDrills=" 0.5 0.6 0.7 0.9 1 1.1 1.2 1.3 1.4 1.5 1.6 2 2.2 2.8 3.2 0.8"
@@ -169,8 +168,8 @@ Layer=16
 
 [Win_3]
 Type="Control Panel"
-Loc="90 12 1675 925"
-State=2
+Loc="652 321 1251 720"
+State=1
 Number=0
 
 [Desktop]

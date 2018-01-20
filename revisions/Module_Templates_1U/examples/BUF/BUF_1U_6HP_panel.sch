@@ -1114,7 +1114,6 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
 <plain>
 <text x="30.48" y="7.62" size="1.9304" layer="91" font="vector" ratio="20">Tom Moxon</text>
 <text x="177.8" y="27.94" size="3.81" layer="91" font="vector" ratio="20">ERA 1U 6HP 4J</text>
-<text x="157.48" y="38.1" size="3.81" layer="91" font="vector" ratio="20">"4 Jacks - Halcyon Spacing!!!"</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$2" x="172.72" y="0"/>

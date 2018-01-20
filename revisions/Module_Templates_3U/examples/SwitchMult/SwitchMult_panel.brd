@@ -177,7 +177,7 @@
 <wire x1="0" y1="0" x2="128.5" y2="0" width="0" layer="20"/>
 <wire x1="128.5" y1="0" x2="128.5" y2="20" width="0" layer="20"/>
 <wire x1="128.5" y1="20" x2="0" y2="20" width="0" layer="20"/>
-<hole x="52" y="5" drill="7.5"/>
+<hole x="52" y="5" drill="6"/>
 <hole x="66" y="5" drill="7.5"/>
 <hole x="80" y="5" drill="7.5"/>
 <hole x="94" y="5" drill="7.5"/>

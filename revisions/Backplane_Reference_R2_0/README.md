@@ -28,9 +28,9 @@ the ERA specification includes a simple N-Channel Mosfet circuit that provides b
 The circuit is described in the ERA Module Reference Design.
 
 -----------------------------------------------------
-For more information, please see the [ERA Wiki](https://github.com/halcyonmodular/ERA/wiki)!
+For more information, please see the [ERA Wiki](https://github.com/patternagents/ERA/wiki)!
 -----------------------------------------------------
 
-![Embedded Rack 2.0 Backplane Reference Design](https://github.com/halcyonmodular/ERA/blob/master/revisions/Backplane_Reference_R2_0/images/Backplane_Reference_R2_0_top.png)
+![Embedded Rack 2.0 Backplane Reference Design](https://github.com/patternagents/ERA/blob/master/revisions/Backplane_Reference_R2_0/images/Backplane_Reference_R2_0_top.png)
 
 -----------------------------------------------------

@@ -1,7 +1,7 @@
 version;4;5;http://eagleup.wordpress.com/;
 settings;C:/Program Files (x86)/EAGLE-6.6.0/models/;C:/Program Files (x86)/ImageMagick-6.7.6-Q16/convert.exe;C:/Program Files (x86)/ImageMagick-6.7.6-Q16/composite.exe;del;
 color;0x141414;0x202020;silver;white;
-images;U:/Halcyon/ERA/revisions/Backplane_Reference_R2_0/revisions/R2_1/eagleUp/;eagleUp_Backplane_Compact_R2_1;png;600;jpg;
+images;U:/PatternAgents/eagle/TSOC_ERA/ERA/revisions/Backplane_Reference_R2_0/revisions/R2_1/eagleUp/;eagleUp_Backplane_Compact_R2_1;png;600;jpg;
 outline-line;0.000000;84.684806;0.000000;0.740528;1.600000;
 outline-arc;0.740528;0.740528;0.740528;180.000000;270.000000;1.600000;
 outline-line;0.740528;0.000000;95.604191;0.000000;1.600000;

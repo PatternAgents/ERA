@@ -1758,7 +1758,7 @@ Example:
 A simple Bus Access Module 
 in 1U and 6 HP size format.
 A single, simple, passive PCB. </text>
-<text x="27.94" y="5.08" size="2.54" layer="91" font="vector" ratio="20">Tom Moxon, Halcyon Modular, LLC</text>
+<text x="27.94" y="5.08" size="2.54" layer="91" font="vector" ratio="20">Tom Moxon, Patternagents, LLC</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$2" x="172.72" y="0"/>
