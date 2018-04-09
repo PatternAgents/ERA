@@ -1,25 +1,53 @@
 [Eagle]
 Version="06 06 00"
-Platform="Windows"
-Serial="700CBCE2DD-LSR-WLM-1CS"
+Platform="Linux"
+Serial="7212E3F38F-LSR-WLM-1CP"
 Globals="Globals"
 Desktop="Desktop"
 
 [Globals]
 AutoSaveProject=1
+UsedLibrary="/mrbig/customers/Halcyon/halcyon_libs/eagle6/lbr/halcyonmod_AnalogIC.lbr"
+UsedLibrary="/mrbig/customers/Halcyon/halcyon_libs/eagle6/lbr/halcyonmod_CEM.lbr"
+UsedLibrary="/mrbig/customers/Halcyon/halcyon_libs/eagle6/lbr/halcyonmod_Connectors.lbr"
+UsedLibrary="/mrbig/customers/Halcyon/halcyon_libs/eagle6/lbr/halcyonmod_DigitalIC.lbr"
+UsedLibrary="/mrbig/customers/Halcyon/halcyon_libs/eagle6/lbr/halcyonmod_DiscreteSemi.lbr"
+UsedLibrary="/mrbig/customers/Halcyon/halcyon_libs/eagle6/lbr/halcyonmod_Hardware.lbr"
+UsedLibrary="/mrbig/customers/Halcyon/halcyon_libs/eagle6/lbr/halcyonmod_Optoelectronics.lbr"
+UsedLibrary="/mrbig/customers/Halcyon/halcyon_libs/eagle6/lbr/halcyonmod_Passives.lbr"
+UsedLibrary="/mrbig/customers/Halcyon/halcyon_libs/eagle6/lbr/halcyonmod_Potentiometers.lbr"
+UsedLibrary="/mrbig/customers/Halcyon/halcyon_libs/eagle6/lbr/halcyonmod_SSM.lbr"
+UsedLibrary="/mrbig/customers/Halcyon/halcyon_libs/eagle6/lbr/halcyonmod_Switches.lbr"
+UsedLibrary="/mrbig/customers/Halcyon/halcyon_libs/eagle6/lbr/halcyonmod_Teensy.lbr"
+UsedLibrary="/mrbig/customers/Halcyon/halcyon_libs/eagle6/lbr/haycyonmod_Logos.lbr"
+UsedLibrary="/mrbig/customers/PatternAgents/eagle/PCB_Libraries/eagle6/lbr/PatternAgents-Beautify.lbr"
+UsedLibrary="/mrbig/customers/PatternAgents/eagle/PCB_Libraries/eagle6/lbr/PatternAgents-Boards.lbr"
+UsedLibrary="/mrbig/customers/PatternAgents/eagle/PCB_Libraries/eagle6/lbr/PatternAgents-Cypress.lbr"
+UsedLibrary="/mrbig/customers/PatternAgents/eagle/PCB_Libraries/eagle6/lbr/PatternAgents-Enclosures.lbr"
+UsedLibrary="/mrbig/customers/PatternAgents/eagle/PCB_Libraries/eagle6/lbr/PatternAgents-Fairchild.lbr"
+UsedLibrary="/mrbig/customers/PatternAgents/eagle/PCB_Libraries/eagle6/lbr/PatternAgents-Infineon.lbr"
+UsedLibrary="/mrbig/customers/PatternAgents/eagle/PCB_Libraries/eagle6/lbr/PatternAgents-Interface.lbr"
+UsedLibrary="/mrbig/customers/PatternAgents/eagle/PCB_Libraries/eagle6/lbr/PatternAgents-JTAG.lbr"
+UsedLibrary="/mrbig/customers/PatternAgents/eagle/PCB_Libraries/eagle6/lbr/PatternAgents-Logos.lbr"
+UsedLibrary="/mrbig/customers/PatternAgents/eagle/PCB_Libraries/eagle6/lbr/PatternAgents-Microchip.lbr"
+UsedLibrary="/mrbig/customers/PatternAgents/eagle/PCB_Libraries/eagle6/lbr/PatternAgents-Molex.lbr"
+UsedLibrary="/mrbig/customers/PatternAgents/eagle/PCB_Libraries/eagle6/lbr/PatternAgents-NXP.lbr"
+UsedLibrary="/mrbig/customers/PatternAgents/eagle/PCB_Libraries/eagle6/lbr/PatternAgents-OnSemi.lbr"
+UsedLibrary="/mrbig/customers/PatternAgents/eagle/PCB_Libraries/eagle6/lbr/PatternAgents-ProtoPads.lbr"
+UsedLibrary="/mrbig/customers/PatternAgents/eagle/PCB_Libraries/eagle6/lbr/PatternAgents-STM.lbr"
+UsedLibrary="/mrbig/customers/PatternAgents/eagle/PCB_Libraries/eagle6/lbr/PatternAgents-SunLED.lbr"
+UsedLibrary="/mrbig/customers/PatternAgents/eagle/PCB_Libraries/eagle6/lbr/PatternAgents-TI.lbr"
+UsedLibrary="/mrbig/customers/PatternAgents/eagle/PCB_Libraries/eagle6/lbr/PatternAgents-TouchChips.lbr"
+UsedLibrary="/mrbig/customers/PatternAgents/eagle/PCB_Libraries/eagle6/lbr/PatternAgents-TouchWidgets.lbr"
+UsedLibrary="/mrbig/customers/PatternAgents/eagle/PCB_Libraries/eagle6/lbr/PatternAgents_RFmodules.lbr"
+UsedLibrary="/mrbig/customers/PatternAgents/eagle/TSOC_ERA/ERA/revisions/Library_Reference_R2_0/ERA.lbr"
 
 [Win_1]
-Type="Control Panel"
-Loc="652 321 1251 720"
-State=1
-Number=0
-
-[Win_2]
 Type="Schematic Editor"
-Loc="652 321 1251 720"
-State=1
+Loc="0 0 599 399"
+State=3
 Number=2
-File="panels/6hp_IEC_panel.sch"
+File="examples/OUT/OUT_16HP_bpb.sch"
 View="-6.11216 -4.84216 285.304 220.534"
 WireWidths=" 0 0.3048 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0.4064 0.1524"
 PadDiameters=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0"
@@ -27,7 +55,7 @@ PadDrills=" 0.5 0.6 0.7 0.9 1 1.1 1.2 1.3 1.4 1.5 1.6 2 2.2 2.8 3.2 0.8"
 ViaDiameters=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0"
 ViaDrills=" 0.5 0.7 0.8 0.9 1 1.1 1.2 1.3 1.4 1.5 1.6 2 2.2 2.8 3.2 0.6"
 HoleDrills=" 0.5 0.7 0.8 0.9 1 1.1 1.2 1.3 1.4 1.5 1.6 2 2.2 2.8 3.2 0.6"
-TextSizes=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.9304 2.1844 5.08 6.4516 1.778 2.54 3.81"
+TextSizes=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.9304 2.1844 2.54 3.81 5.08 6.4516 1.778"
 PolygonSpacings=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 5.08 6.4516 1.27"
 PolygonIsolates=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0"
 MiterRadiuss=" 0.254 0.3175 0.635 1.27 2.54 1 2 2.5 5 7.5 10 0"
@@ -46,7 +74,7 @@ PolygonPour=0
 PolygonRank=0
 PolygonThermals=1
 PolygonOrphans=0
-TextRatio=20
+TextRatio=8
 DimensionUnit=1
 DimensionPrecision=2
 DimensionShowUnit=0
@@ -59,21 +87,22 @@ ArcDirection=0
 AddLevel=2
 PadsSameType=0
 Layer=91
+Views=" 1: -6.11216 -4.84216 285.304 220.534"
 Sheet=1
 
-[Win_3]
+[Win_2]
 Type="Board Editor"
-Loc="474 284 1073 683"
+Loc="0 0 599 399"
 State=3
 Number=1
-File="panels/6hp_IEC_panel.brd"
-View="7.68818 16.1179 45.0147 44.2105"
+File="examples/OUT/OUT_16HP_bpb.brd"
+View="-1.84404 -37.1105 61.026 29.604"
 WireWidths=" 0 0.254 0.3048 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0.4064"
 PadDiameters=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0"
-PadDrills=" 0.6 0.7 0.9 1 1.1 1.2 1.3 1.4 1.5 1.6 2 2.2 2.8 3.2 0.8 2.9972"
+PadDrills=" 0.5 0.6 0.7 0.9 1 1.1 1.2 1.3 1.4 1.5 1.6 2 2.2 2.8 3.2 0.8"
 ViaDiameters=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0"
-ViaDrills=" 0.7 0.8 0.9 1 1.1 1.2 1.3 1.4 1.5 1.6 2 2.2 2.8 3.2 0.6 2.9972"
-HoleDrills=" 0.7 0.8 0.9 1 1.1 1.2 1.3 1.4 1.5 1.6 2 2.2 2.8 3.2 0.6 2.9972"
+ViaDrills=" 0.5 0.7 0.8 0.9 1 1.1 1.2 1.3 1.4 1.5 1.6 2 2.2 2.8 3.2 0.6"
+HoleDrills=" 0.5 0.7 0.8 0.9 1 1.1 1.2 1.3 1.4 1.5 1.6 2 2.2 2.8 3.2 0.6"
 TextSizes=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.9304 2.1844 2.54 3.81 5.08 6.4516 1.778"
 PolygonSpacings=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 5.08 6.4516 1.27"
 PolygonIsolates=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0"
@@ -93,7 +122,7 @@ PolygonPour=0
 PolygonRank=1
 PolygonThermals=1
 PolygonOrphans=0
-TextRatio=20
+TextRatio=8
 DimensionUnit=1
 DimensionPrecision=2
 DimensionShowUnit=0
@@ -107,8 +136,14 @@ AddLevel=2
 PadsSameType=0
 Layer=16
 
+[Win_3]
+Type="Control Panel"
+Loc="193 60 1221 832"
+State=1
+Number=0
+
 [Desktop]
-Screen="3840 1080"
+Screen="1920 1080"
 Window="Win_1"
 Window="Win_2"
 Window="Win_3"
