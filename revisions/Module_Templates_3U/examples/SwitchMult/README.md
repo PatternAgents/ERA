@@ -29,7 +29,7 @@ The four inputs (P1-P4) are "normalized" to the ERA bus signals as follows:
 When connected to an ERA backplane, those Bus signals can be routed to other
 "Switched Multiple" modules, or other ERA audio/video modules.
 
-![Embedded Rack Architecture (ERA) Switched Multiple Reference Design](https://github.com/PatternAgents/ERA/blob/master/revisions/Module_Templates_3U/examples/SwitchMult/images/SwitchMult_iso.png)
+![Embedded Rack Architecture (ERA) Switched Multiple Reference Design](https://github.com/PatternAgents/ERA/blob/master/revisions/Module_Templates_3U/examples/SwitchMult/images/SwitchMult.png)
 
 -----------------------------------------------------
 This repository contains Open Source Hardware Reference Designs for Embedded Rack Architecture (ERA)
