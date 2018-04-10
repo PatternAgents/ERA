@@ -3,30 +3,33 @@
 Embedded Rack Architecture (ERA) Specifications and Reference Designs 
 
 
-![Embedded Rack Architecture (ERA) Backplane Reference Design](https://github.com/patternagents/ERA/blob/master/images/era_backplane.png)
+![Embedded Rack Architecture (ERA) Backplane Reference Design](https://github.com/patternagents/ERA/blob/master/revisions/Backplane_Reference_R2_0/images/Backplane_Reference_R2_0_top.png)
 
 -----------------------------------------------------
-This repository contains Open Source Hardware Reference Designs for Embedded Rack Architecture (ERA)
-that anyone can use or fabricate for themselves.
+This repository contains Open Source Hardware Reference Designs for the Embedded Rack Architecture (ERA),
+a new design pattern for the interconnection and packaging of Modular Audio/Video equipment.
+
 
 For more information, please see the [ERA Wiki](https://github.com/patternagents/ERA/wiki)!
 
-There are many "patchable" audio synthesizers, including those from Moog, Buchla, Paia, and many more
-from the 1970's and on. Most of those early systems were incompatible with each other,
+There are many "patchable" audio systems and synthesizers, 
+including those from Moog, Buchla, Paia, and many more from the 1970's and on. 
+Most of those early systems were incompatible with each other,
 using different voltage and control levels, so it was difficult to use them together.
 Doepfer created the A-100 System, on which Eurorack is based, for a more open
 framework where different manufacturers or designers could add modules to the
 system to personalize it. Eurorack has become very popular for modular synthesizers. 
 
-Embedded Rack Architecture (ERA) is a new, Open Source Hardware (OSHW) specification for 
+The Embedded Rack Architecture (ERA) is a new, 
+Open Source Hardware (OSHW) specification for 
 Modular Audio/Video equipment that is being co-developed by a number of
 cooperating companies and individuals in the audio field,
-and is completely backward compatible with Eurorack (Legacy). 
+and is backward compatible with the Eurorack specification (aka Legacy Eurorack). 
 
 
-![Embedded Rack Architecture (ERA) Backplane Reference Design](https://github.com/patternagents/ERA/blob/master/revisions/Backplane_Reference_R2_0/images/Backplane_Reference_R2_0_top.png)
+![Embedded Rack Architecture (ERA) Backplane Reference Design]()
 
-Eurorack has undergone some changes over the years, and one of the changes 
+Eurorack has undergone many changes over the years, and one of the changes 
 recommended by Dave Rossum of Rossum Electro-Music (nee Emu Systems) 
 is to disconnect two of the six "Ground" signals as a circuit protection mechanism.
 ( see http://www.rossum-electro.com/uncategorized/circuit-protection/ )
