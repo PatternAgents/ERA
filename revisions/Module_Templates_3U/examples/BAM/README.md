@@ -9,6 +9,6 @@ for breadboards and prototyping, as well as LED indicators for Gate and CV.
 
 -----------------------------------------------------
 
-![Bus Access Module Reference Design](https://github.com/patternagents/ERA/blob/master/revisions/BAM_Reference_R2_0/images/BAM_Reference_R2_0_top.png)
+![Bus Access Module Reference Design](https://github.com/PatternAgents/ERA/blob/master/revisions/Module_Templates_3U/examples/BAM/images/BAM_top.png)
 
 -----------------------------------------------------
