@@ -23,11 +23,9 @@ then please contact us at :  [PatternAgents](https://patternagents.com/store)
 
 Eurorack (Legacy) References and Articles
 
-[Doepfer-Creator](http://www.doepfer.de/a100_man/a100m_e.htm)
+[Doepfer- Eurorack ](http://www.doepfer.de/a100_man/a100m_e.htm)
 
 [Wikipedia-Doepfer](https://en.wikipedia.org/wiki/Doepfer_A-100)
-
-[Patch Pierre](http://patchpierre.blogspot.com/2012/02/eurorack-standard.html)
 
 [SDIY Info](https://www.sdiy.info/w/Eurorack)
 
