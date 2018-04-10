@@ -25,6 +25,8 @@ A buffered, dual color LED is used as an optional CV/Gate activity indicator.
 
 -----------------------------------------------------
 
+![Bus Access Module Reference Design](https://github.com/PatternAgents/ERA/blob/master/revisions/Module_Templates_3U/examples/BAM/images/BAM.png)
+
 ![Bus Access Module Reference Design](https://github.com/PatternAgents/ERA/blob/master/revisions/Module_Templates_3U/examples/BAM/images/BAM_top.png)
 
 -----------------------------------------------------
