@@ -1,9 +1,11 @@
 # SwitchMult
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 A simple, passive, "Switched Multiple" design for ERA/Eurorack. 
-Five(5) latching, pushbutton switches, control up to five (5) inputs,
+Four(4) latching, pushbutton switches, control up to four (4) inputs,
 that are routed to an internal bus.
-The first four inputs (P1-P4) are "normalized" to the ERA bus signals as follows:
+The four inputs (P1-P4) are "normalized" to the ERA bus signals as follows:
 
 1) ERA Bus Gate In  (Green)
 2) ERA Bus CV In    (Red)

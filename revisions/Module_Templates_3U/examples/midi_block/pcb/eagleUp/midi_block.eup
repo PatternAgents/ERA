@@ -1,7 +1,7 @@
 version;4;5;http://eagleup.wordpress.com/;
 settings;C:/Program Files (x86)/EAGLE-6.6.0/models/;C:/Program Files (x86)/ImageMagick-6.7.6-Q16/convert.exe;C:/Program Files (x86)/ImageMagick-6.7.6-Q16/composite.exe;del;
-color;0x141414;0x202020;silver;white;
-images;U:/PatternAgents/eagle/synths/oxo/midi_block/midi_block/pcb/eagleUp/;eagleUp_midi_block;png;600;jpg;
+color;0x141414;0x202020;gold;white;
+images;U:/PatternAgents/eagle/TSOC_ERA/ERA/revisions/Module_Templates_3U/examples/midi_block/pcb/eagleUp/;eagleUp_midi_block;png;600;jpg;
 outline-line;0.000000;44.450000;0.000000;2.236066;1.600000;
 outline-arc;2.236066;2.236066;2.236066;180.000000;270.000000;1.600000;
 outline-line;2.236066;0.000000;97.763934;0.000000;1.600000;
@@ -78,4 +78,4 @@ hole;45.212;14.224;0.508;0.800;
 hole;40.386;5.080;0.508;0.800;
 hole;42.926;5.080;0.508;0.800;
 hole;45.466;5.080;0.508;0.800;
-hole-complete;element;61;silver;
+hole-complete;element;61;gold;

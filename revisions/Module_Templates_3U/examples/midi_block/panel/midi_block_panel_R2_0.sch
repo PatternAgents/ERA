@@ -168,10 +168,6 @@ DIN A4, landscape with location and doc. field</description>
 <sheets>
 <sheet>
 <plain>
-<text x="162.56" y="20.32" size="2.54" layer="94">cc-by-sa</text>
-<text x="162.56" y="15.24" size="2.54" layer="94">Olivier Gillet</text>
-<text x="162.56" y="10.16" size="2.54" layer="94">ol.gillet@gmail.com</text>
-<text x="218.44" y="20.32" size="2.54" layer="94">Power entry</text>
 </plain>
 <instances>
 <instance part="FRAME8" gate="G$1" x="0" y="0"/>

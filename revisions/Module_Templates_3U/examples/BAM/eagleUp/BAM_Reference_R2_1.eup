@@ -1,6 +1,6 @@
 version;4;5;http://eagleup.wordpress.com/;
 settings;C:/Program Files (x86)/EAGLE-6.6.0/models/;C:/Program Files (x86)/ImageMagick-6.7.6-Q16/convert.exe;C:/Program Files (x86)/ImageMagick-6.7.6-Q16/composite.exe;del;
-color;0x141414;0x202020;silver;white;
+color;0x141414;0x202020;gold;white;
 images;U:/PatternAgents/eagle/TSOC_ERA/ERA/revisions/Module_Templates_3U/examples/BAM/eagleUp/;eagleUp_BAM_Reference_R2_1;png;600;jpg;
 outline-line;0.898025;0.000000;107.720100;0.000000;1.600000;
 outline-arc;107.974100;1.245900;1.271528;258.477093;348.477093;1.600000;
@@ -68,4 +68,4 @@ hole;21.590;14.820;1.100;0.800;
 hole;54.610;20.376;0.400;0.800;
 hole;51.610;21.376;0.400;0.800;
 hole;57.610;21.376;0.400;0.800;
-hole-complete;element;53;silver;
+hole-complete;element;53;gold;
