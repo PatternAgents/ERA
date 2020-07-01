@@ -1,7 +1,7 @@
 [Eagle]
 Version="06 06 00"
 Platform="Windows"
-Serial="700CBCE2DD-LSR-WLM-1CS"
+Serial="7212E3F38F-LSR-WLM-1CP"
 Globals="Globals"
 Desktop="Desktop"
 
@@ -73,6 +73,7 @@ ArcDirection=0
 AddLevel=2
 PadsSameType=0
 Layer=91
+Views=" 1: -6.11216 -4.84216 285.304 220.534"
 Sheet=1
 
 [Win_2]
@@ -123,7 +124,7 @@ Layer=16
 
 [Win_3]
 Type="Control Panel"
-Loc="162 66 1592 884"
+Loc="204 130 1506 885"
 State=2
 Number=0
 
